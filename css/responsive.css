@@ -1,0 +1,39 @@
+/********************************
+* Responsive media queries code *
+********************************/
+/* Most of the Mobile Phone Code */
+@media ( min-width: 320px) and (max-width: 480px) {
+/* code start */
+	.we-are {
+	    padding: 30px 0px;
+	}
+	.we-do {
+	    padding: 30px 0px;
+	}
+	.we-do {
+    width: 98%;
+	}
+	.language-section .title h2 {
+    font-size: 34px;
+    line-height: 44px;
+	}
+	.footer-section p {
+    font-size: 10px;
+	}
+/* code end */
+}
+/* Most of the Mobile Phone and low-resolution Tablet Code */
+@media ( min-width: 481px) and (max-width: 767px) {
+/* code start */
+	.title h2 {
+    font-size: 36px;
+    line-height: 46px;
+    }
+/* code end */
+}
+/* Most of the Tablet Phone and mini notebook Code */
+@media ( min-width: 768px) and (max-width: 1024px) {
+/* code start */
+
+/* code end */
+}

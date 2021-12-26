@@ -1,0 +1,291 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	    font-family: 'Montserrat', sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+.head-section{
+	width: 100%;
+}
+.head-section .menu{
+	width: 100%;
+}
+.head-section .menu .bg-light {
+    background-color: #fofofo !important
+}
+.head-section .menu .navbar-light .navbar-nav .nav-link {
+    color: #2a3872;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 600;
+	transition: 1s;
+	letter-spacing: 1px;
+}
+.head-section .menu .navbar-light .navbar-nav .nav-link:hover{
+	color: #f2662c;
+}
+.head-section .slider{
+	width: 100%;
+}
+.head-section .slider h1{
+	font-size: 60px;
+	line-height: 70px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+}
+.carousel-caption{
+	bottom: 30%;
+}
+.head-section .slider .fa{
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	bottom: -100px;
+	color: #fff;
+}
+/********* Global CSS Start **********/
+.title{
+	width: 100%;
+}
+.title h2{
+	font-size: 44px;
+	line-height: 54px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #28377e;
+	margin: 0px 0px 20px;
+}
+/********* Global CSS End **********/
+.we-are{
+	width: 100%;
+	padding: 80px 0px;
+}
+.we-are .title{
+	width: 100%;
+	margin-top: 60px;
+}
+.we-are p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #b0b0b1;
+}
+.we-are .inner-img{
+	width: 100%;
+	text-align: center;
+}
+.we-do{
+	width: 100%;
+	padding: 80px 0px;
+	background-color: #eee;
+	background: url("../images/sub2.png") bottom right no-repeat;
+	background-size: auto;
+}
+.we-do .title{
+	width: 100%;
+	text-align: center;
+	padding: 0px 0px 70px;
+}
+.we-do .title h2{
+	font-size: 44px;
+	line-height: 54px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #28377e;
+	margin: 0px 0px 20px;
+}
+.we-do .card{
+	width: 100%;
+	border-radius: 0px;
+	color: #fff;
+}
+.we-do .card-body{
+	text-align: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+.we-do .card-body .one{
+	width: 100%;
+	position: absolute;
+	top: 40%;
+}
+.we-do .card-body .two{
+	width: 100%;
+	position: absolute;
+	bottom: 10%;
+}
+.we-do .card-body h3 {
+    font-size: 24px;
+	line-height: 34px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+.we-do .card-body .fa{
+	font-size: 30px;
+	color: #fff;
+	font-weight: 400;
+}
+.attorney-section{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/bg1.png") center top no-repeat;
+	background-size: cover;
+}
+.attorney-section .title{
+	width: 100%;
+	padding: 110px 0px;
+}
+.attorney-section h2{
+	font-size: 44px;
+	line-height: 54px;
+	font-weight: 700;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0px 0px 20px;
+}
+.attorney-section p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #fff;
+}
+.attorney-section .btn-link{
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #f2622c;
+	padding: 0px;
+	text-decoration: none;
+	font-weight: 600;
+	transition: 1s;
+}
+.attorney-section .btn-link:hover{
+	background: #f2622c;
+	color: #fff;
+	border: #f2622c;
+	padding: 5px 15px;
+}
+.attorney-section .card{
+	width: 100%;
+	border-radius: 0px;
+	margin-bottom: 25px;
+}
+.attorney-section .card .card-body{
+	width: 100%;
+	position: absolute;
+	bottom: 0%;
+}
+.attorney-section .card .card-body h3{
+	font-size: 20px;
+	line-height: 30px;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #191919;
+	padding: 0px 10px;
+	opacity: 80%;
+}
+.language-section{
+	width: 100%;
+	padding: 80px 0px;
+}
+.language-section .title{
+	width: 100%;
+	margin-bottom: 50px;
+	text-align: center;
+}
+.language-section h4{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: #28377e;
+}
+.language-section p{
+	font-size: 14px;
+	line-height: 24px;
+	color: #28377e;
+}
+.language-section .btn-link{
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #f2622c;
+	padding: 0px;
+	text-decoration: none;
+	font-weight: 600;
+	transition: 1s;
+}
+.language-section .btn-link:hover{
+	background: #f2622c;
+	color: #fff;
+	border: #f2622c;
+	padding: 5px 15px;
+}
+.contact-section{
+	width: 100%;
+	padding: 80px 0px;
+	background: #28377e;
+}
+.contact-section .title{
+	width: 100%;
+	padding: 0px 0px 30px;
+	text-align: center;
+}
+.contact-section .title h2{
+	font-size: 44px;
+	line-height: 54px;
+	color: #fff;
+	margin-bottom: 50px;
+}
+.contact-section .form-control{
+	font-size: 14px;
+	line-height: 20px;
+	background: transparent;
+	color: #fff;
+	border: none;
+	border-radius: 0px;
+	border-bottom: 1px solid #ccc;
+}
+.contact-section .btn-primary{
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #fff;
+	background: #f2622c;
+	padding: 5px 60px;
+	text-decoration: none;
+	font-weight: 600;
+	transition: 1s;
+	margin-top: 35px;
+}
+.contact-section .btn-primary:hover{
+	background: transparent;
+	color: #f2622c;
+	border: 1px solid #f2622c;
+}
+.footer-section{
+	width: 100%;
+	padding: 40px 0px 0px;
+	background: #191919;
+}
+.footer-section p{
+	font-size: 14px;
+	color: #fff;
+}
+.footer-section ul{
+
+}
+.footer-section ul li{
+	list-style: none;
+	display: inline-block;
+	color: #fff;
+	padding: 5px 10px;
+}
